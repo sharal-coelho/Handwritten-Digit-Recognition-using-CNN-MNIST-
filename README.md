@@ -1,18 +1,26 @@
 # Dataset
 
 MNIST Dataset
+
 70,000 grayscale images of handwritten digits
+
 60,000 training images
+
 10,000 test images
+
 Image size: 28 × 28 pixels
 
 
 # Model Architecture
 
 The CNN model consists of:
+
 Convolutional layers with ReLU activation
+
 MaxPooling layers for spatial reduction
+
 Fully connected (Dense) layers for classification
+
 Softmax output layer for multi-class prediction (0–9)
 
 # Technologies Used
