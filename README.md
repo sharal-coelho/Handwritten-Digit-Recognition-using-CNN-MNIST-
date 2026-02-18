@@ -34,20 +34,28 @@ Jupyter Notebook
 # Results
 
 Achieved ~98% accuracy on the test dataset
+
 Visualized training and validation accuracy
+
 Displayed predicted labels on sample test images
 
 
 # Key Features
 
 End-to-end CNN implementation
+
 Clean and modular code
+
 Beginner-friendly yet interview-ready project
+
 Well-visualized results and predictions
 
 # Future Enhancements
 
 Hyperparameter tuning for better accuracy
+
 Deploy model using Streamlit or Flask
+
 Train on custom handwritten digit images
+
 Extend to character or alphabet recognition
